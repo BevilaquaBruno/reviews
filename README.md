@@ -1,4 +1,4 @@
-# My game reviews
+# My reviews
 
 This is a repository to store and share my reviews. I will try to detail every aspect I like in the product to make sure you can buy or not buy the product based on this.
 
