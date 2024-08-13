@@ -16,7 +16,7 @@ Links:
 
 #### Reviews
 
-- 
+-
 
 > A delayed game is eventually good, but a rushed game is forever bad - Shigeru Miyamoto
 ---
