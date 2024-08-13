@@ -12,7 +12,7 @@ Playing games is my favorite hobby, I play any kind of games at any time. I have
 Links:
 - [Steam](https://steamcommunity.com/id/_bevilaqua/)
 - [MetaCritic](https://www.metacritic.com/user/bevilaqua/)
-- Nintendo Friend Code:
+- Nintendo Friend Code: SW-5226-6387-3995
 
 #### Reviews
 
