@@ -53,7 +53,7 @@ Links:
 ---
 
 <p align="center">
-  <img src="images/readme/logo.svg" />
+  <img src="media/readme/logo.svg" />
   <br />
   Shitty logo i created
 </p>
