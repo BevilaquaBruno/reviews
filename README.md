@@ -16,7 +16,7 @@ Links:
 
 #### Reviews
 
-- [Mario](/reviews/super_mario_odyssey.md)
+- 
 
 > A delayed game is eventually good, but a rushed game is forever bad - Shigeru Miyamoto
 ---
