@@ -4,6 +4,11 @@ This is a website to store and share my reviews. I will try to detail every aspe
 
 I'm Brazilian and to help me with the English language I use [deepl](https://www.deepl.com/en-US/write) to fix some parts of the text.
 
+## Translations
+
+- [English](/en/README.md)
+- [Portuguese](/pt/README.md)
+
 ## Game reviews
 
 #### Introduction
