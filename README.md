@@ -6,8 +6,8 @@ I'm Brazilian and to help me with the English language I use [deepl](https://www
 
 ## Translations - Traduções
 
-- [:us: English](/en/README.md)
-- [:brazil: Português](/pt/README.md)
+- [English](/en/README.md)
+- [Português](/pt/README.md)
 
 ## Game reviews
 
