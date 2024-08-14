@@ -4,6 +4,20 @@ This is a website to store and share my reviews. I will try to detail every aspe
 
 I'm Brazilian and to help me with the English language I use [deepl](https://www.deepl.com/en-US/write) to fix some parts of the text.
 
+## Translations - Traduções
+
+<div style="display:flex; flex-direction:row; align-items:center; justify-content:center; text-align: center;">
+  <div style="width: 8%; margin-right: 5px;">
+    <img src="assets/readme/images/usa.png" />
+    <a href="https://bevilaquabruno.github.io/reviews/en">English</a>
+  </div>
+
+  <div style="width: 8%; margin-left: 5px;">
+    <img src="assets/readme/images/brazil.png" />
+    <a href="https://bevilaquabruno.github.io/reviews/pt">Português</a>
+  </div>
+</div>
+
 ## Game reviews
 
 #### Introduction
