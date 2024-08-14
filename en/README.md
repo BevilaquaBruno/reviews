@@ -1,6 +1,6 @@
 # My reviews
 
-This is a repository to store and share my reviews. I will try to detail every aspect I like in the product to make sure you can buy or not buy the product based on this.
+This is a website to store and share my reviews. I will try to detail every aspect I like in the product to make sure you can buy or not buy the product based on this.
 
 I'm Brazilian and to help me with the English language I use [deepl](https://www.deepl.com/en-US/write) to fix some parts of the text.
 
