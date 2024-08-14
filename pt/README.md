@@ -1,4 +1,4 @@
-# My reviews
+# Minhas reviews
 
 Este é um site para guardar e compartilhar minhas reviews. Vou tentar detalhar todos os aspectos que eu gosto no produto para garantir que você possa ou não comprar o produto baseado nisso.
 
