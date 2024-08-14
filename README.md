@@ -52,6 +52,12 @@ Links:
 > Shadows in the trees play tricks on me - Shadows by Pastel Ghost
 ---
 
+## My socials
+[![X Badge](https://img.shields.io/badge/Twitter%20X-Profile-informational?style=flat&logo=X&logoColor=white&color=5B5B5B)](https://x.com/NoWayBevilaqua)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=5B5B5B)](https://www.instagram.com/bevilaquabruno/)
+[![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=dev.to&logoColor=white&color=5B5B5B)](https://dev.to/bevilaquabruno)
+[![Buy Me a Coffee Badge](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-To%20Help%20My%20Studies-informational?style=flat&logo=buymeacoffee&logoColor=white&color=5B5B5B)](https://www.buymeacoffee.com/bevilaqua)
+
 <p align="center">
   <img src="assets/readme/images/logo.svg" />
   <br />
