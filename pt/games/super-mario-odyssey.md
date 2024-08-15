@@ -26,4 +26,14 @@ A história do jogo começa assim, além disso, você também tem seu próprio d
   Dirigível do Mario, Odyssey - Fonte: <a href="https://www.mariowiki.com">Mario Wiki</a>
 </p>
 
-## Gameplay
+## Jogabilidade
+
+Graças ao seu amigo Cappy, Mario adquiriu novas habilidades quando comparado aos jogos anteriores, como jogar o chapéu para atacar inimigos e causar dano, além disso, ao jogar o chapéu em determinados inimigos o Cappy permite que você os controle.
+
+IMAGEM COM O MARIO MATANDO UM INIMIGO E CONTROLANDO ALGUM INIMIGO.
+
+Esta mecânica de controlar alguns inimigos ao jogar o Cappy neles torna o jogo muito divertido e aumenta drasticamente as possibilidades de jogabilidade do jogo, variando muito de acordo com o inimigo que você está controlando.
+
+IMAGEM DO MARIO CONTROLANDO ALGUM INIMIGO.
+
+Além dos inimigos, também é possível jogar o Mario em partes do mapa para facilitar a movimentação.
