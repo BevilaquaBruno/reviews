@@ -68,7 +68,6 @@ Por fim, Super Mario Odyssey para mim é um dos melhores jogos de todos os tempo
 
 A qualidade de Super Mario Odyssey é digna da Nintendo, a empresa Japonesa nunca deixa a desejar quando trata-se das suas maiores séries de jogos, portanto Super Mario Odyssey é mais um daqueles jogos que você **precisa** jogar, mesmo que nunca tenha tocado em um controle na sua vida.
 
-
 <p align="center">
   A nota final de 0 a 100 para Super Mario Odyssey é:
   <br />
