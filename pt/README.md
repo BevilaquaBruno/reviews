@@ -64,7 +64,7 @@ Links:
 [![Buy Me a Coffee Badge](https://img.shields.io/badge/Me%20compre%20um%20café%20para%20ajudar%20nos%20meus%20estudos-informational?style=flat&logo=buymeacoffee&logoColor=white&color=5B5B5B)](https://www.buymeacoffee.com/bevilaqua)
 
 <p align="center">
-  <img src="../assets/readme/images/logo.svg" />
+  <img style="width: 15%;" src="../assets/readme/images/logo.png" />
   <br />
   Logo horrível que eu criei
 </p>
