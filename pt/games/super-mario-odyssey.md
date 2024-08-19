@@ -5,7 +5,7 @@
 > Super Mario Odyssey é mais uma obra prima da Nintendo, muito divertido, inovador e cativante em todos os aspectos do game, do início ao fim. - Bruno Bevilaqua
 
 <p align="center">
-  <img style="width: 40%;" src="../../assets/games/super-mario-odyssey/logo.png" />
+  <img style="width: 60%;" src="../../assets/games/super-mario-odyssey/logo.png" />
   <br />
   Logo do Super Mario Odyssey - Fonte: <a href="https://www.mariowiki.com">Mario Wiki</a>
 </p>
