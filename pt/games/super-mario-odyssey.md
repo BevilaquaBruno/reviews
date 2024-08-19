@@ -47,6 +47,9 @@ O motivo de Cappy juntar-se a Mario nesta jornada é, além de Bowser raptar a p
   <br />
    Mario, Peach e Tiara - Fonte: Autor
 </p>
+
+## Os mundos
+
 A quantidade e variedade dos mundos existentes em Super Mario Odyssey é surpreendente, cada vez que você consegue a quantidade de luas (moons) suficientes, você quer logo ir ao próximo mundo apenas para conhecer e ter um gosto do que será o futuro da sua próxima gameplay.
 
 As viagens entre os mundos são feitas com o Odyssey, um dirigível do Mario, mas não é só ele que possui um dirigível, Bowser e os Broodals (chefes secundários do jogo) também possuem seus Dirigíveis.
