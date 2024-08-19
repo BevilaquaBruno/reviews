@@ -21,7 +21,7 @@ Links:
 
 #### Reviews
 
-- [Super Mario Odyssey](./games/super-mario-odyssey.md)
+- [Super Mario Odyssey - Switch](./games/super-mario-odyssey.md)
 
 > Um jogo atrasado pode ser bom, mas um jogo apressado sempre será ruim - Shigeru Miyamoto
 ---
