@@ -105,13 +105,13 @@ Super Mario Odyssey também tem uma leve gameplay "online", em que é possível 
 Este último minigame, de pular corda, podemos citar um "problema" do jogo, em que é possível burlar o minigame de pular corda com um glitch envolvendo peças de letras que você movimenta, veja abaixo:
 
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/liyNZW8ovnQ?si=64k3dm9loaEf6EGz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="506" height="290" src="https://www.youtube.com/embed/liyNZW8ovnQ?si=64k3dm9loaEf6EGz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 Mesmo alguns glitchs como este não atrapalham em nada a gameplay, pois como é possível ver no vídeo, é muito difícil de executar e às vezes acontecem coisas engraçadas como esta abaixo:
 
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/SIJRKaUioIo?si=NruARouQZlKF0xcb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="506" height="290" src="https://www.youtube.com/embed/SIJRKaUioIo?si=NruARouQZlKF0xcb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Por fim, um veredito
@@ -123,5 +123,5 @@ A qualidade de Super Mario Odyssey é digna da Nintendo, a empresa Japonesa nunc
 <p align="center">
   A nota final de 0 a 100 para Super Mario Odyssey é:
   <br />
-  <img style="width: 15%;" src="../../assets/games/super-mario-odyssey/super-mario-odyssey-grade.png" />
+  <img style="width: 100%;" src="../../assets/games/super-mario-odyssey/super-mario-odyssey-grade.png" />
 </p>
