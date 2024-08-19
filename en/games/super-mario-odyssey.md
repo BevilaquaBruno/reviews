@@ -42,7 +42,7 @@ Thanks to Mario's new friend, Cappy, he has acquired new abilities, such as inte
    Mario using a string of light to reach the map. - Source: Author
 </p>
 
-The reason Cappy joins Mario on this journey is that, as well as Bowser kidnapping Princess Peach (what a novelty!), he has also kidnapped Tiara (yes, that's the English name too) who is Cappy's sister, so the two of them team up to save Peach and Tiara.
+The reason Cappy joins Mario on this journey is that, as well as Bowser kidnapping Princess Peach (what a novelty!), he has also kidnapped Tiara who is Cappy's sister, so the two of them team up to save Peach and Tiara.
 
 <p align="center">
   <img style="width: 100%;" src="../../assets/games/super-mario-odyssey/super-mario-odyssey-peach-tiara.jpg" />
