@@ -1,5 +1,7 @@
 # Super Mario Odyssey
 
+[Voltar](../README.md)
+
 ## Introduction
 
 > Super Mario Odyssey is yet another Nintendo masterpiece, very fun, innovative and captivating in every aspect of the game, from start to finish. - Bruno Bevilaqua

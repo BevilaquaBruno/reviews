@@ -1,5 +1,7 @@
 # Super Mario Odyssey
 
+[Voltar](../README.md)
+
 ## Introdução
 
 > Super Mario Odyssey é mais uma obra prima da Nintendo, muito divertido, inovador e cativante em todos os aspectos do game, do início ao fim. - Bruno Bevilaqua
