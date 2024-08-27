@@ -125,5 +125,5 @@ The quality of Super Mario Odyssey is worthy of Nintendo, the Japanese company n
 <p align="center">
   The final score from 0 to 100 for Super Mario Odyssey is:
   <br />
-  <img style="width: 100%;" src="../../assets/games/super-mario-odyssey/super-mario-odyssey-grade.png" />
+  <img style="width: 100%;" src="../../assets/games/super-mario-odyssey/grade.png" />
 </p>
