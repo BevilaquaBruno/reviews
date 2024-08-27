@@ -125,5 +125,5 @@ A qualidade de Super Mario Odyssey é digna da Nintendo, a empresa Japonesa nunc
 <p align="center">
   A nota final de 0 a 100 para Super Mario Odyssey é:
   <br />
-  <img style="width: 100%;" src="../../assets/games/super-mario-odyssey/super-mario-odyssey-grade.png" />
+  <img style="width: 100%;" src="../../assets/games/super-mario-odyssey/grade.png" />
 </p>
