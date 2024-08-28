@@ -21,6 +21,7 @@ Links:
 
 #### Reviews
 
+- [Anno: Mutationem - PC](./games/anno-mutationem.md)
 - [Super Mario Odyssey - Switch](./games/super-mario-odyssey.md)
 
 > A delayed game is eventually good, but a rushed game is forever bad - Shigeru Miyamoto
