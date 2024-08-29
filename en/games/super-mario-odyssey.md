@@ -1,6 +1,6 @@
 # Super Mario Odyssey
 
-[Voltar](../README.md)
+[Go back](../README.md)
 
 ## Introduction
 

@@ -24,7 +24,7 @@ O universo de ANNO: Mutationem podemos tratar como algo comum, é um padrão cyb
   Cidade - Fonte: Autor
 </p>
 
-## Um combate varia, mas só isso
+## Um combate variado, mas só isso
 
 Quanto ao combate, existe uma série variada de movimentos e diferentes armas que você vai adquirindo durante a gameplay, é possível melhorar tais armas ou comprar novas em lojas existentes no jogo. A variação do combate e das armas é mais um aspecto estético do game e não "necessário" pois você pode jogar praticamente o jogo todo com a arma que preferir, sem muitos problemas.
 

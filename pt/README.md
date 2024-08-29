@@ -21,8 +21,8 @@ Links:
 
 #### Reviews
 
-- [Anno: Mutationem - PC](./games/anno-mutationem.md)
 - [Super Mario Odyssey - Switch](./games/super-mario-odyssey.md)
+- [Anno: Mutationem - PC](./games/anno-mutationem.md)
 
 > Um jogo atrasado pode ser bom, mas um jogo apressado sempre será ruim - Shigeru Miyamoto
 ---
