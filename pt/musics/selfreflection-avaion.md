@@ -9,7 +9,7 @@
 <p align="center">
   <img style="width: 100%;" src="../../assets/musics/selfreflection-avaion/thumb.png" />
   <br />
-  Thumb - [Álbum no Spotify](https://open.spotify.com/intl-pt/album/3Ab4BR06hO8qx1NCZ1seog?si=pCPVLwZMR1SZLGFq0fZ11g)
+  Thumb - <a href="https://open.spotify.com/intl-pt/album/3Ab4BR06hO8qx1NCZ1seog?si=pCPVLwZMR1SZLGFq0fZ11g">Álbum no Spotify</a>
 </p>
 
 Selfreflection traz melancolia do início ao fim, passando por **pieces**, **broken** **stop the time** e **always on my mind**. Todas as músicas possuem esta característica, o que torna o álbum muito agradável de se ouvir, sem ter músicas que você sente estarem desconectadas do álbum.
