@@ -53,7 +53,7 @@ Links:
 
 #### Reviews
 
--
+- Selfreflection - AVAION: [EN](/en/musics/selfreflection-avaion.md), [PT](/pt/musics/selfreflection-avaion.md)
 
 > Shadows in the trees play tricks on me - Shadows by Pastel Ghost
 ---
