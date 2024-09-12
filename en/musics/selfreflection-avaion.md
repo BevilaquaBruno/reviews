@@ -9,7 +9,7 @@
 <p align="center">
   <img style="width: 100%;" src="../../assets/musics/selfreflection-avaion/thumb.png" />
   <br />
-  Thumb
+  Thumb - [Spotify album](https://open.spotify.com/intl-pt/album/3Ab4BR06hO8qx1NCZ1seog?si=pCPVLwZMR1SZLGFq0fZ11g)
 </p>
 
 Selfreflection is melancholy from start to finish, with **pieces**, **broken** **stop the time** and **always on my mind**. All th songs have this characteristic, which makes the album very pleasant to listen to, without having songs that make you feel are disconnect from the album.
