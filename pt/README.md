@@ -37,7 +37,7 @@ Links:
 
 #### Reviews
 
--
+- [Apologia de Socrates](./books/apologia-de-socrates.md)
 
 > A virtude é um conhecimento - Sócrates
 ---

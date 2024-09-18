@@ -37,7 +37,7 @@ Links:
 
 #### Reviews
 
--
+- Apologia de Socrates (The Apology of Socrates): [EN](./en/books/apologia-de-socrates.md), [PT](./pt/books/apologia-de-socrates.md)
 
 > Virtue is knowledge - Socrates
 ---
