@@ -15,5 +15,5 @@
 <p align="center">
   A nota final de 0 a 100 para Asterix & Obelix XXL Romastered é:
   <br />
-  <img style="width: 100%;" src="../../assets/games/anno-mutationem/grade.png" />
+  <img style="width: 100%;" src="../../assets/games/asterix-&-obelix-xxl-romastered/grade.png" />
 </p>
