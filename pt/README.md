@@ -18,7 +18,7 @@ Links:
 - [Steam](https://steamcommunity.com/id/_bevilaqua/)
 - [MetaCritic](https://www.metacritic.com/user/bevilaqua/)
 - Código de amizade Nintendo: SW-5226-6387-3995
-- [Jogos zerados](https://docs.google.com/spreadsheets/d/1Qv7rdyusBe_FdIypCfM_B0vdeKpcN5JZCmQpfts6EIY/edit?gid=0#gid=0)
+- [Jogos zerados](https://docs.google.com/spreadsheets/d/1Qv7rdyusBe_FdIypCfM_B0vdeKpcN5JZCmQpfts6EIY/edit?usp=sharing)
 
 
 #### Reviews
