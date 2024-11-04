@@ -18,7 +18,7 @@ Links:
 - [Steam](https://steamcommunity.com/id/_bevilaqua/)
 - [MetaCritic](https://www.metacritic.com/user/bevilaqua/)
 - Nintendo Friend Code: SW-5226-6387-3995
-- [Beated games](https://docs.google.com/spreadsheets/d/1Qv7rdyusBe_FdIypCfM_B0vdeKpcN5JZCmQpfts6EIY/edit?gid=0#gid=0)
+- [Beated games](https://docs.google.com/spreadsheets/d/1Qv7rdyusBe_FdIypCfM_B0vdeKpcN5JZCmQpfts6EIY/edit?usp=sharing)
 
 #### Reviews
 
