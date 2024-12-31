@@ -41,6 +41,7 @@ Links:
 #### Reviews
 
 - Apologia de Socrates (The Apology of Socrates) - Plato: [EN](./en/books/apologia-de-socrates.md), [PT](./pt/books/apologia-de-socrates.md)
+- O jovem JK (The young JK) - Roniwalter Jatobá: [EN](./en/books/o-jovem-jk.md), [PT](./pt/books/o-jovem-jk.md)
 
 > Virtue is knowledge - Socrates
 ---

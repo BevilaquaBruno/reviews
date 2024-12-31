@@ -41,6 +41,7 @@ Links:
 #### Reviews
 
 - [Apologia de Socrates - Platão](./books/apologia-de-socrates.md)
+- [O jovem JK - Roniwalter Jatobá](./books/o-jovem-jk.md)
 
 > A virtude é um conhecimento - Sócrates
 ---
