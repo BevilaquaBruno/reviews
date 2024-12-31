@@ -24,6 +24,7 @@ Links:
 
 - [Super Mario Odyssey - Switch](./games/super-mario-odyssey.md)
 - [Anno: Mutationem - PC](./games/anno-mutationem.md)
+- [Asterix & Obelix XXL Romastered - Switch](./games/asterix-&-obelix-xxl-romastered.md)
 
 > A delayed game is eventually good, but a rushed game is forever bad - Shigeru Miyamoto
 ---
