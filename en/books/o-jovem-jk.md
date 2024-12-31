@@ -5,7 +5,7 @@
 > Young JK is a great book to start reading about the history of this interesting Brazilian figure. - Bruno Bevilaqua
 
 <p align="center">
-  <img style="width: 100%;" src="../../assets/books/apologia-de-socrates/thumb.jpg" />
+  <img style="width: 100%;" src="../../assets/books/o-jovem-jk/thumb.jpg" />
   <br />
   Thumb
 </p>
