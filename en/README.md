@@ -40,7 +40,7 @@ Links:
 #### Reviews
 
 - [Apologia de Socrates (The Apology of Socrates) - Plato](./books/apologia-de-socrates.md)
-- [O jovem JK (The young JK) - Roniwalter Jatobá](./books/o-jovem-jk.md)
+- [O livro amarelo - Onde estamos? (The yellow book - Where are we?) - Missão](./books/o-livro-amarelo-onde-estamos.md)
 
 > Virtue is knowledge - Socrates
 ---

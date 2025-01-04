@@ -53,6 +53,7 @@ ANNO: Mutationem has several elements that are very cool, but the game feels lik
 I liked the game so much that I platinumed it on steam and made a guide to platinuming, go there:
 [ANNO: Mutatinem - 100% Achievements](https://steamcommunity.com/sharedfiles/filedetails/?id=2863440135)
 
+Translated with DeepL.com (free version)
 
 <p align="center">
   The final score from 0 to 100 for ANNO: Mutationem is:

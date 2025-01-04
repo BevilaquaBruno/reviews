@@ -122,6 +122,8 @@ Finally, Super Mario Odyssey for me is one of the best games of all time, but be
 
 The quality of Super Mario Odyssey is worthy of Nintendo, the Japanese company never leaves anything to be desired when it comes to its biggest game series, so Super Mario Odyssey is another one of those games that you **need** to play, even if you've never touched a controller in your life.
 
+Translated with DeepL.com (free version)
+
 <p align="center">
   The final score from 0 to 100 for Super Mario Odyssey is:
   <br />

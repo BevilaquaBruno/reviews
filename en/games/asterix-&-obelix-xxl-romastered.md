@@ -56,6 +56,8 @@ Towards the end of the game I unlocked a hurricane skill (yes, there are skills 
 
 Although the game was good for its time (in my opinion) and deserved a remaster, this remaster was awful on the Nintendo Switch, there are examples of _third party_ games on the Switch that perform decently, not so with this one. Unfortunately for me, this really affected the gameplay and that's why I didn't like the game.
 
+Translated with DeepL.com (free version)
+
 <p align="center">
   The final score from 0 to 100 for Asterix & Obelix XXL Romastered is:
   <br />
