@@ -20,4 +20,6 @@ Personally, AVAION has become one of my favorite musicians for combining pleasan
 
 > Seven years ago, AVAION tattooed the words Selfreflection on his arm as a promise that one day that would be the title of his debut album. Oswald - [Source](https://dvoxmag.com/avaion-selfreflection-album/).
 
-This album, as I've already mentioned, reflects life and what AVAION is all about. There are 15 songs that you can sit still and listen to or dance to (whichever you prefer). For me (as a youngster) it was by far the best debut album by an artist I've ever seen. I'm glad to have been able to follow it and that this album is my first written review
+This album, as I've already mentioned, reflects life and what AVAION is all about. There are 15 songs that you can sit still and listen to or dance to (whichever you prefer). For me (as a youngster) it was by far the best debut album by an artist I've ever seen. I'm glad to have been able to follow it and that this album is my first written review.
+
+Translated with DeepL.com (free version)
