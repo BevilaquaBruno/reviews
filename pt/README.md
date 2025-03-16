@@ -74,7 +74,7 @@ Links:
 [![Spotify Badge](https://img.shields.io/badge/My%20Spotify-informational?style=flat&logo=spotify&logoColor=white&color=5B5B5B)](https://open.spotify.com/user/srbevilaqua)
 
 <p align="center">
-  <img style="width: 15%;" src="../assets/readme/images/logo.png" />
+  <img style="width: 15%;" src="../assets/readme/images/logo.jpeg" />
   <br />
   Logo horrível que eu criei
 </p>
