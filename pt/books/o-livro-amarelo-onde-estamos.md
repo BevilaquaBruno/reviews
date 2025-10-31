@@ -2,7 +2,7 @@
 
 ## Introdução
 
-> Apologia de Sócrates traz uma das defesas mais famosas no direito aqui no ocidente, ótimo para iniciar com livros de filosofia. - Bruno Bevilaqua
+> "O livro amarelo - Onde estamos?" É um ótimo livro para quem deseja um panorama geral da situação atual do Brasil, baseado na opinião do partido MISSÃO. - Bruno Bevilaqua
 
 <p align="center">
   <img style="width: 100%;" src="../../assets/books/o-livro-amarelo-onde-estamos/thumb.png" />
@@ -21,11 +21,11 @@ Pessoalmente vejo a cultura de favelização como um dos maiores problemas abord
 Ótimo livro caso queira conhecer a visão de Brasil do partido MISSÃO e pelo que muitos de seus futuros candidatos irão lutar.
 
 **Dados do livro:**
-- **ISBN-13:** 7893095268553
-- **ISBN-10:** 3095268556
+- **ISBN-13:** 9786598327804
+- **ISBN-10:** -
 - **Ano:** 2024
-- **Páginas:** 124
-- **Idioma:** português
-- **Editora:** Editora Missão
+- **Páginas:** 216
+- **Idioma:** Português
+- **Editora:** Editora Hawaii e Missão
 
 Link do livro no Skoob [aqui](https://www.skoob.com.br/o-livro-amarelo-122453417ed122454639.html).
