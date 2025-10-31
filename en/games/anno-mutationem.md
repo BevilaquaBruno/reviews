@@ -51,7 +51,7 @@ Putting all the elements of ANNO: Mutationem together, it's possible to conclude
 ANNO: Mutationem has several elements that are very cool, but the game feels like it could have more content, it's as if all these elements are just a taste of what the game could have been or could be (with updates). But that doesn't kill the game, it's still a very good and promising game, and if there were more games in this style, it would certainly be great for gamers.
 
 I liked the game so much that I platinumed it on steam and made a guide to platinuming, go there:
-[ANNO: Mutatinem - 100% Achievements](https://steamcommunity.com/sharedfiles/filedetails/?id=2863440135)
+[ANNO: Mutationem - 100% Achievements](https://steamcommunity.com/sharedfiles/filedetails/?id=2863440135)
 
 Translated with DeepL.com (free version)
 
@@ -60,3 +60,4 @@ Translated with DeepL.com (free version)
   <br />
   <img style="width: 100%;" src="../../assets/games/anno-mutationem/grade.png" />
 </p>
+
