@@ -41,6 +41,7 @@ Links:
 
 - [Apologia de Socrates (The Apology of Socrates) - Plato](./books/apologia-de-socrates.md)
 - [O livro amarelo - Onde estamos? (The yellow book - Where are we?) - Missão](./books/o-livro-amarelo-onde-estamos.md)
+- [O livro amarelo - De onde viemos? (The yellow book - Where Do We Come From?) - Missão](./books/o-livro-amarelo-de-onde-viemos.md)
 
 > Virtue is knowledge - Socrates
 ---

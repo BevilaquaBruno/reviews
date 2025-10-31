@@ -43,6 +43,7 @@ Links:
 - [Apologia de Socrates - Platão](./books/apologia-de-socrates.md)
 - [O jovem JK - Roniwalter Jatobá](./books/o-jovem-jk.md)
 - [O livro amarelo - Onde estamos? - Missão](./books/o-livro-amarelo-onde-estamos.md)
+- [O livro amarelo - De onde viemos? - Missão](./books/o-livro-amarelo-de-onde-viemos.md)
 
 > A virtude é um conhecimento - Sócrates
 ---
