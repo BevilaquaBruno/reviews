@@ -51,7 +51,7 @@ Juntando todos os elementos de ANNO: Mutationem é possível concluir que o jogo
 ANNO: Mutationem traz diversos elementos que são muito legais, mas o jogo parece que poderia ter mais conteúdo, é como se todos esses elementos dessem apenas uma amostra do que o game poderia ter sido ou pode ser (com atualizações). Porém isso não mata o jogo, ele continua sendo um game muito bom e promissor, se tivessem mais jogos nesse estilo, com certeza seria ótimo para os jogadores.
 
 Eu gostei tanto do jogo que platinei ele na steam e fiz um guia para platinar, acessa lá:
-[ANNO: Mutatinem - 100% Achievements](https://steamcommunity.com/sharedfiles/filedetails/?id=2863440135)
+[ANNO: Mutationem - 100% Achievements](https://steamcommunity.com/sharedfiles/filedetails/?id=2863440135)
 
 
 <p align="center">
@@ -59,3 +59,4 @@ Eu gostei tanto do jogo que platinei ele na steam e fiz um guia para platinar, a
   <br />
   <img style="width: 100%;" src="../../assets/games/anno-mutationem/grade.png" />
 </p>
+
